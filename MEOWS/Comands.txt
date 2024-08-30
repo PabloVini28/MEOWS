@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --windowed --hidden-import tkinter --hidden-import customtkinter --hidden-import typing --hidden-import pathlib --icon=PUFF.ico app.py
